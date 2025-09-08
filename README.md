@@ -1,6 +1,6 @@
 <h1 align="center"> SWA-PF: Semantic-Weighted Adaptive Particle Filter for Memory-Efficient 4-DoF UAV Localization in GNSS-Denied Environments </h1>
 
-We shared our results [here](【视觉无人机定位】 https://www.bilibili.com/video/BV1bzQJYzEnA/?share_source=copy_web&vd_source=fa7d4ca9e5eb2082828642578bec4de4)
+We shared our results [here](https://www.bilibili.com/video/BV1bzQJYzEnA/?share_source=copy_web&vd_source=fa7d4ca9e5eb2082828642578bec4de4)
 
 ![](https://github.com/YuanJiayuuu/SWA-PF/blob/main/pic/IMG1.png)
 
