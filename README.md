@@ -75,18 +75,7 @@ You can download the corresponding version from this [website](
 The following paper uses and reports the result of the baseline model. You may cite it in your paper.
 
 ```bibtex
-@ARTICLE{DenseUAV,
-  author={Dai, Ming and Zheng, Enhui and Feng, Zhenhua and Qi, Lei and Zhuang, Jiedong and Yang, Wankou},
-  journal={IEEE Transactions on Image Processing},
-  title={Vision-Based UAV Self-Positioning in Low-Altitude Urban Environments},
-  year={2024},
-  volume={33},
-  number={},
-  pages={493-508},
-  doi={10.1109/TIP.2023.3346279}}
+
 ```
 
-## Related Work
 
-- University-1652 [https://github.com/layumi/University1652-Baseline](https://github.com/layumi/University1652-Baseline)
-- FSRA [https://github.com/Dmmm1997/FSRA](
