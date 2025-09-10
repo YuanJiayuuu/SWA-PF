@@ -67,27 +67,23 @@ pip install numpy==1.26
 
 You can download the MAFS datasets from this [website](
 We have currently created the following path:
-| Subset   | UAV-view | Satellite-view | Classes | universities |
-| -------- | -------- | -------------- | ------- | ------------ |
-| Training | 6,768    | 13,536         | 2,256   | 10           |
-| Query    | 2,331    | 4,662          | 777     | 4            |
-| Gallery  | 9099     | 18198          | 3033    | 14           |
-
-caijing
-chuanmei
-gongshang
-hangdian
-hangzhi
-jiliang
-jingguan
-jingji
-jingmao
-jinrong
-ligong
-shifan
-shuiyuan
-xianke
-dianli
+|   Name    |  Height  |
+| --------  | -------- |
+| caijing   | 100m, 150m |
+| chuanmei  | 100m, 150m |
+| gongshang | 100m, 150m |
+| hangdian  | 100m, 150m |
+| hangzhi   | 100m, 150m |
+| jiliang   | 100m, 150m |
+| jingguan  | 100m, 150m |
+| jingji    | 100m, 150m |
+| jingmao   | 100m, 150m |
+| jinrong   | 100m, 150m |
+| ligong    | 100m, 150m |
+| shifan    | 100m, 150m |
+| shuiyuan  | 100m, 150m |
+| xianke    | 100m, 150m |
+| dianli    | 100m, 200m, 300m, 400m, 500m, 100m-500m|
 
 
 ## Start
