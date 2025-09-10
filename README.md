@@ -66,7 +66,8 @@ pip install numpy==1.26
 ## Dataset & Preparation
 
 Currently, we have created the following path and open sourced a portion of it.
-You can download the MAFS datasets from this [website](
+You can download the MAFS datasets from this [website](https://pan.baidu.com/s/1mAgo7E3PUKMRWt2XhnNSNQ) passpassword: 8888 
+--来自百度网盘超级会员v7的分享
 |   Name    |  Height  |
 | --------  | -------- |
 | caijing   | 100m, 120m |
