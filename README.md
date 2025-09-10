@@ -65,30 +65,32 @@ pip install numpy==1.26
 
 ## Dataset & Preparation
 
+Currently, we have created the following path and open sourced a portion of it.
 You can download the MAFS datasets from this [website](
-We have currently created the following path:
 |   Name    |  Height  |
 | --------  | -------- |
-| caijing   | 100m, 150m |
-| chuanmei  | 100m, 150m |
-| gongshang | 100m, 150m |
-| hangdian  | 100m, 150m |
-| hangzhi   | 100m, 150m |
-| jiliang   | 100m, 150m |
-| jingguan  | 100m, 150m |
-| jingji    | 100m, 150m |
-| jingmao   | 100m, 150m |
-| jinrong   | 100m, 150m |
-| ligong    | 100m, 150m |
-| shifan    | 100m, 150m |
-| shuiyuan  | 100m, 150m |
-| xianke    | 100m, 150m |
+| caijing   | 100m, 120m |
+| chuanmei  | 100m, 300m, 500m, 100m-500m |
+| gongshang | 100m, 120m |
+| hangdian  | 100m, 300m, 500m, 100m-500m |
+| hangzhi   | 100m, 200m, 300m, 400m, 500m, 100m-500m |
+| jiliang   | 100m, 200m |
+| jingguan  | 100m, 120m |
+| jingji    | 100m, 120m |
+| jingmao   | 100m, 120m |
+| jinrong   | 100m, 120m |
+| ligong    | 100m, 200m, 300m, 400m, 500m, 100m-500m |
+| shifan    | 100m, 120m |
+| shuiyuan  | 100m, 200m |
+| xianke    | 100m, 120m |
 | dianli    | 100m, 200m, 300m, 400m, 500m, 100m-500m|
 
 
 ## Start
 
-You can download the corresponding version from this [website](
+You can easily run it by ```python SWAPF.py```
+
+The premise is that you need to modify the dataset path within ```datasets/data_process.py```
 
 ## Citation
 
