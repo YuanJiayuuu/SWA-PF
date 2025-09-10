@@ -66,6 +66,29 @@ pip install numpy==1.26
 ## Dataset & Preparation
 
 You can download the MAFS datasets from this [website](
+We have currently created the following path:
+| Subset   | UAV-view | Satellite-view | Classes | universities |
+| -------- | -------- | -------------- | ------- | ------------ |
+| Training | 6,768    | 13,536         | 2,256   | 10           |
+| Query    | 2,331    | 4,662          | 777     | 4            |
+| Gallery  | 9099     | 18198          | 3033    | 14           |
+
+caijing
+chuanmei
+gongshang
+hangdian
+hangzhi
+jiliang
+jingguan
+jingji
+jingmao
+jinrong
+ligong
+shifan
+shuiyuan
+xianke
+dianli
+
 
 ## Start
 
