@@ -2,7 +2,8 @@
 
 We shared our results [here](https://www.bilibili.com/video/BV1bzQJYzEnA/?share_source=copy_web&vd_source=fa7d4ca9e5eb2082828642578bec4de4)
 
-![](https://github.com/YuanJiayuuu/SWA-PF/blob/main/pic/IMG1.png)
+![](https://github.com/YuanJiayuuu/SWA-PF/blob/main/images/1.JPG)
+![](https://github.com/YuanJiayuuu/SWA-PF/blob/main/images/3.jpg)
 
 # About Dataset
 
