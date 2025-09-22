@@ -99,7 +99,12 @@ The premise is that you need to modify the dataset path within ```datasets/data_
 The following paper uses and reports the result of the baseline model. You may cite it in your paper.
 
 ```bibtex
-
+@inproceedings{Yuan2025SWAPFSA,
+  title={SWA-PF: Semantic-Weighted Adaptive Particle Filter for Memory-Efficient 4-DoF UAV Localization in GNSS-Denied Environments},
+  author={Jiayu Yuan and Ming Dai and Enhui Zheng and Chao Su and Nanxing Chen and Qiming Hu and Shibo Zhu and Yibin Cao},
+  year={2025},
+  url={https://api.semanticscholar.org/CorpusID:281332613}
+}
 ```
 
 
